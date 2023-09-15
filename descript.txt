@@ -1,0 +1,75 @@
+charset,UTF-8
+
+//——— Basic information ———
+name,Simplicity Calendar
+craftman,
+craftmanurl,
+
+//——— Table ———
+table.left,6
+table.top,53
+table.right,294
+table.bottom,258
+
+
+//——— Numbers ———
+day.pos.x,3
+day.pos.y,3
+
+day.spacing,0
+saturday.spacing,0
+holiday.spacing,0
+
+year.pos.x,230
+year.pos.y,10
+
+year.spacing,0
+
+
+//——— Day markers ———
+today.pos.x,26
+today.pos.y,0
+
+current.pos.x,0
+current.pos.y,0
+
+
+//——— Event markers ———
+icon.left,1
+icon.top,21
+icon.right,41
+icon.bottom,41
+
+icon.width,10
+icon.height,10
+
+
+//——— Month names ———
+month.pos.x,10
+month.pos.y,10
+
+
+//——— Next & previous month buttons ———
+prev.left,114
+prev.top,16
+prev.right,127
+prev.bottom,28
+
+next.left,129
+next.top,16
+next.right,142
+next.bottom,28
+
+
+//——— Filenames ———
+day.filename,numbers/num
+saturday.filename,numbers/nums
+holiday.filename,numbers/numh
+
+year.filename,numbers/num
+month.filename,months/month
+
+today.filename,today
+current.filename,current
+
+background.filename,bg
