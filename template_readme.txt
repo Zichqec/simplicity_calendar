@@ -77,6 +77,6 @@ I have sorted the files into subfolders to make things a bit tidier, but you can
 Once you're done with all that, do a final check of your info at the top of descript.txt, check your install.txt, delete this file, and then you can drag and drop your calendar skin's folder onto any running ghost and ask them to make a .nar file! (If you don't get the option to do so, you probably need to turn developer mode on.) Note that a lot of ghosts, especially older ones, don't have dialogue for when they're done installing a calendar skin. Just open your calendar, right click it, and check under the "Skin" menu to see if it's there!
 
 
-Simplicity Calendar v1.0.0
+Simplicity Calendar v1.0.1
 Made by Zichqec https://ukagaka.zichqec.com/
 You are free to use this to create any calendar skins you like, no need to credit me! But if you'd like to find more by me, including more templates like this, find me at the link above.
